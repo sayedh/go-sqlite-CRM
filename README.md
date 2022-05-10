@@ -1,6 +1,4 @@
-# go-sqlite-CRM
 Golang CRM APIs with SQLite. Create, read, update and delete data with Postman. 
-
 
 ## Technologies Used
 * Golang
